@@ -6,7 +6,7 @@
 		url('../fonts/iconfont.ttf') format('truetype');
 }
 
-.iconfont {
+.icon {
 	font-family: "iconfont" !important;
   font-size:16px;
   font-style:normal;
@@ -16,62 +16,62 @@
 }
 
 
-.icon-xiugaimima:before {
+.icon-:before {
 	content: "\E001";
 }
 
-.icon-shuangxiu:before {
+.icon-:before {
 	content: "\E002";
 }
 
-.icon-fangdajing:before {
+.icon-:before {
 	content: "\E003";
 }
 
-.icon-xingxing:before {
+.icon-:before {
 	content: "\E004";
 }
 
-.icon-xingxing_1:before {
+.icon-:before {
 	content: "\E005";
 }
 
-.icon-fuwu:before {
+.icon-:before {
 	content: "\E006";
 }
 
-.icon-shenqing:before {
+.icon-:before {
 	content: "\E007";
 }
 
-.icon-shenqing_1:before {
+.icon-:before {
 	content: "\E008";
 }
 
-.icon-qianming:before {
+.icon-:before {
 	content: "\E009";
 }
 
-.icon-jiantou:before {
+.icon-:before {
 	content: "\E00A";
 }
 
-.icon-jiantou_1:before {
+.icon-:before {
 	content: "\E00B";
 }
 
-.icon-weixiubanshou:before {
+.icon-:before {
 	content: "\E00C";
 }
 
-.icon-qingjiashenqing:before {
+.icon-:before {
 	content: "\E00D";
 }
 
-.icon-tuichu:before {
+.icon-:before {
 	content: "\E00E";
 }
 
-.icon-shouyejiedan:before {
+.icon-:before {
 	content: "\E00F";
-}
+}

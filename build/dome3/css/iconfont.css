@@ -6,7 +6,7 @@
 		url('../fonts/iconfont.ttf') format('truetype');
 }
 
-.iconfont {
+.icon {
 	font-family: "iconfont" !important;
   font-size:16px;
   font-style:normal;
@@ -16,198 +16,198 @@
 }
 
 
-.icon-shangmenbujianfei:before {
+.icon-:before {
 	content: "\E001";
 }
 
-.icon-geren:before {
+.icon-:before {
 	content: "\E002";
 }
 
-.icon-zhufangbutie:before {
+.icon-:before {
 	content: "\E003";
 }
 
-.icon-fenxiang:before {
+.icon-:before {
 	content: "\E004";
 }
 
-.icon-woshijiaju:before {
+.icon-:before {
 	content: "\E005";
 }
 
-.icon-weiyujian:before {
+.icon-:before {
 	content: "\E006";
 }
 
-.icon-chufangwujinanzhuang:before {
+.icon-:before {
 	content: "\E007";
 }
 
-.icon-you:before {
+.icon-:before {
 	content: "\E008";
 }
 
-.icon-xiangshang:before {
+.icon-:before {
 	content: "\E009";
 }
 
-.icon-xiangxia:before {
+.icon-:before {
 	content: "\E00A";
 }
 
-.icon-shouhoufuwu:before {
+.icon-:before {
 	content: "\E00B";
 }
 
-.icon-diban:before {
+.icon-:before {
 	content: "\E00C";
 }
 
-.icon-lajitong:before {
+.icon-:before {
 	content: "\E00D";
 }
 
-.icon-shimudiban:before {
+.icon-:before {
 	content: "\E00E";
 }
 
-.icon-shimuchuguianzhuang:before {
+.icon-:before {
 	content: "\E00F";
 }
 
-.icon-shimuyiguianzhuang:before {
+.icon-:before {
 	content: "\E010";
 }
 
-.icon-ketingjiaju:before {
+.icon-:before {
 	content: "\E011";
 }
 
-.icon-xiaodanfei:before {
+.icon-:before {
 	content: "\E012";
 }
 
-.icon-zuo:before {
+.icon-:before {
 	content: "\E013";
 }
 
-.icon-chuangpinanzhuang:before {
+.icon-:before {
 	content: "\E014";
 }
 
-.icon-qianghuadiban:before {
+.icon-:before {
 	content: "\E015";
 }
 
-.icon-chaijiufei:before {
+.icon-:before {
 	content: "\E016";
 }
 
-.icon-pinhua:before {
+.icon-:before {
 	content: "\E017";
 }
 
-.icon-banyunfei:before {
+.icon-:before {
 	content: "\E018";
 }
 
-.icon-shijian:before {
+.icon-:before {
 	content: "\E019";
 }
 
-.icon-banshichuguianzhuang:before {
+.icon-:before {
 	content: "\E01A";
 }
 
-.icon-banshiyiguianzhuang:before {
+.icon-:before {
 	content: "\E01B";
 }
 
-.icon-tatami:before {
+.icon-:before {
 	content: "\E01C";
 }
 
-.icon-chuguileianzhuang:before {
+.icon-:before {
 	content: "\E01D";
 }
 
-.icon-oushichuguianzhuang:before {
+.icon-:before {
 	content: "\E01E";
 }
 
-.icon-oushiyiguianzhuang:before {
+.icon-:before {
 	content: "\E01F";
 }
 
-.icon-xiyiguianzhuang:before {
+.icon-:before {
 	content: "\E020";
 }
 
-.icon-ximianpenanzhuang:before {
+.icon-:before {
 	content: "\E021";
 }
 
-.icon-celiangfuwu:before {
+.icon-:before {
 	content: "\E022";
 }
 
-.icon-yushiguianzhuang:before {
+.icon-:before {
 	content: "\E023";
 }
 
-.icon-yuganganzhuang:before {
+.icon-:before {
 	content: "\E024";
 }
 
-.icon-yubapaiqishan:before {
+.icon-:before {
 	content: "\E025";
 }
 
-.icon-linyujian:before {
+.icon-:before {
 	content: "\E026";
 }
 
-.icon-dengpao:before {
+.icon-:before {
 	content: "\E027";
 }
 
-.icon-teshuanzhuang:before {
+.icon-:before {
 	content: "\E028";
 }
 
-.icon-yimenanzhuang:before {
+.icon-:before {
 	content: "\E029";
 }
 
-.icon-haocaifei:before {
+.icon-:before {
 	content: "\E02A";
 }
 
-.icon-yiguileianzhuang:before {
+.icon-:before {
 	content: "\E02B";
 }
 
-.icon-wugongfei:before {
+.icon-:before {
 	content: "\E02C";
 }
 
-.icon-tijiaoxian:before {
+.icon-:before {
 	content: "\E02D";
 }
 
-.icon-yuanchengfei:before {
+.icon-:before {
 	content: "\E02E";
 }
 
-.icon-menleianzhuang:before {
+.icon-:before {
 	content: "\E02F";
 }
 
-.icon-shouye:before {
+.icon-:before {
 	content: "\E030";
 }
 
-.icon-matonganzhuang:before {
+.icon-:before {
 	content: "\E031";
-}
+}

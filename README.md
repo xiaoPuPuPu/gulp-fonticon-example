@@ -12,7 +12,7 @@ gulp-iconfont + gulp-iconfont-css + gulp-template
 ## 项目运行
 
 ```
-git clone https://github.com/w3cui/iconfont.git  
+git clone git@github.com:xiaoPuPuPu/gulp-fonticon-example.git  
 
 npm install --save-dev   
 

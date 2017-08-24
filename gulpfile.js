@@ -24,7 +24,10 @@ var filt = ["andaren", "dome2", "dome3"],
                     fontName: fontName,
                     path: './src/templates/iconfont.css',
                     targetPath: '../css/iconfont.css',
-                    fontPath: '../fonts/'
+                    fontPath: '../fonts/',
+                   // cssClass: 'pu',
+                    cssSelector:'.pu',
+                    separator:'-'
                 }))
                 .pipe(iconfont({
                     fontName: fontName,
